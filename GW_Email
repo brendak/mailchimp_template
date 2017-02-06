@@ -1,0 +1,711 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial scale=1.0"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+    <meta content="*|MC:SUBJECT|*" property="og:title">
+
+    <title>*|MC:SUBJECT|*</title>
+    <style type="text/css">
+        * {
+            font-family: Helvetica, Arial;
+        }
+        a {
+            color: #d2321c;
+            font-weight: normal;
+            text-decoration: none;
+        }
+        #outlook a {
+            padding: 0;
+        }
+        .ExternalClass {
+            width: 100%;
+        }
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+            line-height: 100%;
+            background-color: #ffffff;
+        }
+        body {
+            font-family: Helvetica, Arial;
+            width: 100% !important;
+            min-width: 100%;
+            margin: 0;
+            Margin: 0;
+            padding: 0;
+            background-color: #f7f7f7 !important;
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+        }
+        table {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+        td {
+            word-wrap: break-word;
+            -webkit-hyphens: auto;
+            -moz-hyphens: auto;
+            hyphens: auto;
+            border-collapse: collapse !important;
+        }
+        table,
+        tr,
+        td {
+            padding: 0;
+            vertical-align: top;
+        }
+        img {
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+            width: auto;
+            max-width: 100%;
+            clear: both;
+        }
+        #backgroundTable {
+            background-color: #f7f7f7 !important;
+            height: 100% !important;
+            margin: 0;
+            Margin: 0;
+            padding: 0;
+            width: 100% !important;
+            line-height: 100% !important;
+        }
+
+    #std_preheader {
+        text-align: right !important;
+        display: block;
+        margin: 5px;
+        Margin: 5px;
+    }
+    #std_preheader_content img {
+        max-width: 16px;
+        max-height: 16px;
+        margin: 5px;
+        Margin: 5px;
+    }
+    #std_preheader a {
+        color: #d2321c;
+        text-decoration: none;
+        font-family: Helvetica, Arial;
+        font-size: 13px;
+        margin: 5px;
+        Margin: 5px;
+        padding: 0;
+        font-weight: normal;
+        font-style: normal;
+        line-height: 1.08;
+    }
+    h1,
+    .h1 {
+        color: #d2321c;
+        display: block;
+        font-size: 21px;
+        font-weight: bold;
+        line-height: 1.05;
+        text-align: left;
+    }
+    h2,
+    .h2 {
+        color: #d2321c;
+        font-size: 13px;
+        font-weight: bold;
+        text-align: center;
+    }
+    h3,
+    .h3 {
+        color: black;
+        font-size: 11px;
+        font-weight: normal;
+        text-align: center;
+    }
+    .preheaderContent div {
+        color: #505050;
+        font-family: Helvetica, Arial;
+        font-size: 10px;
+        line-height: 100%;
+        text-align: left;
+         padding-top: 10px !important;
+
+    }
+    .preheaderContent div a:link,
+    .preheaderContent div a:visited {
+        color: #336699;
+        font-weight: normal;
+        text-decoration: underline;
+    }
+    .preheaderContent div img {
+        height: auto;
+        max-width: 600px;
+    }
+    #templateHeader {
+        background-color: #f7f7f7;
+    }
+    #templateContainer,
+    .bodyContent {
+        max-width: 600px !important;
+    }
+    .templateBody {
+        color: #333333;
+        font-size: 16px;
+        line-height: 22px;
+        text-align: left;
+        max-width: 600px !important;
+    }
+    .bodyContent {
+        color: #333333;
+        background-color: #ffffff;
+        font-family: Helvetica;
+        font-size: 16px;
+        line-height: 22px;
+        max-width: 600px !important;
+        padding: 0;
+    }
+    .bodyContent div a:link,
+    .bodyContent div a:visited {
+        color: #d90000;
+        font-weight: normal;
+        text-decoration: underline;
+    }
+    #std_contentAD img,
+    #std_contentAD2 img {
+        display: block;
+        margin: 0 auto;
+        Margin: 0 auto;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    #indent div,
+    #indent2 div {
+        margin-left: 40px;
+        margin-right: 40px;
+        Margin-left: 40px;
+        Margin-right: 40px;
+    }
+    .Advertisement {
+        font-family: Helvetica;
+        font-size: 11px;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+        vertical-align: middle;
+        color: #999999;
+    }
+    #socialFooter {
+        width: 600px !important;
+        text-align: center;
+        vertical-align: middle;
+    }
+    #socialFooter div {
+        text-align: center;
+        height: 140px !important;
+        max-height: 140px !important;
+        background-color: #ffffff;
+        border: 1px solid #eeeeee;
+        padding: 5px 3px;
+        margin-right: 10px;
+        Margin-right: 10px;
+    }
+    #socialFooter div.last-col {
+        margin: 0;
+        Margin: 0;
+        }
+
+    #socialFooter img {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .footerContent div {
+        color: #333333;
+        font-size: 12px;
+    }
+    .footerContent div a:link,
+    .footerContent div a:visited {
+        color: #336699;
+        font-weight: normal;
+        text-decoration: underline;
+    }
+    #Footer_left {
+        text-align: left;
+        display: block;
+    }
+    #Footer_right div {
+        text-align: right;
+        display: block;
+        max-width: 200px !important;
+        width: 100% !important;
+    }
+    #footer_sub {
+        height: 145px;
+        max-width: 230px !important;
+        width: 230px;
+    }
+
+    @media (min-width: 1281px){
+      #std_contentAD img,
+      #std_contentAD2 img {
+          display: block;
+          margin: 0 auto;
+          Margin: 0 auto;
+          padding-left: 0;
+          padding-right: 0;
+      }
+      img {
+          outline: none;
+          text-decoration: none;
+          -ms-interpolation-mode: bicubic;
+          width: auto;
+          max-width: 100%;
+          clear: both;
+      }
+    }
+    @media only screen and (max-width: 600px) {
+        html {
+            min-height: 100%;
+        }
+        .all {
+            max-width: 100% !important;
+            width: 100% !important;
+        }
+        table.body {
+            height: 100%;
+            width: 100%;
+        }
+        table.row {
+            padding: 0;
+            width: 100%;
+        }
+        table.spacer {
+            width: 100%;
+        }
+        table.spacer td {
+            mso-line-height-rule: exactly;
+        }
+        table.container table.row {
+            display: table;
+        }
+        td.columns,
+        td.column,
+        th.columns,
+        th.column {
+            margin: 0 auto;
+            Margin: 0 auto;
+        }
+        span[class=switcher] {
+            display: block;
+            background-image: url(http://i.imgur.com/fKgyEt8.jpg) !important;
+            background-repeat: no-repeat !important;
+            background-position: center !important;
+            vertical-align: middle !important;
+            height: 250px !important;
+            max-width: 100% !important;
+            margin: 0 !important;
+        }
+        img[class=ad_image] {
+            display: none !important;
+        }
+        img {
+            max-width: 100% !important;
+            height: auto !important;
+        }
+        #header_image,
+        .ad_image {
+            -ms-interpolation-mode: bicubic;
+            height: auto !important;
+            max-width: 700px !important;
+            width: 100% !important;
+            vertical-align: middle !important;
+            margin: 0 auto;
+            Margin: 0 auto;
+        }
+        #std_preheader div {
+            text-align: right;
+            display: block;
+            padding-top: 10px !important;
+        }
+
+        #std_preheader, #std_preheader a {
+            font-size: 16px !important;
+        }
+
+        #indent div img,
+        #indent2 div img {
+            margin: 0px;
+            Margin: 0px;
+        }
+         #Footer {
+            max-width: 100% !important;
+        }
+        #socialFooter,.socialContent div {
+            font-size: 10px;
+        }
+        #socialFooter div {
+              padding-bottom: 75px !important;
+        }
+        #socialFooter div.last-col-middle {
+            margin: 0;
+            Margin: 0;
+        }
+        #Footer_left div {
+            font-size: 24px;
+            max-width: 100% !important;
+            vertical-align: middle !important;
+             line-height: 125% !important;
+
+        }
+        #Footer_right div {
+            text-align: right;
+            display: block;
+            max-width: 100% !important;
+            width: 450px !important;
+            vertical-align: middle !important;
+
+        }
+        #footer_sub img {
+            -ms-interpolation-mode: bicubic;
+            height: auto !important;
+            max-width: 100% !important;
+            width: 450px !important;
+
+        }
+        #std_contentAD2 {
+            margin-bottom: 30px;
+            }
+
+        #indent div, #indent2 div{
+        font-size: 26px !important;
+        line-height: 125% !important;
+        }
+
+        h1 {
+            font-size: 34px !important;
+            line-height: 100% !important;
+            color: #d2321c;
+            display: block;
+            font-weight: bold;
+            text-align: left;
+        }
+        h2 {
+            font-size: 26px !important;
+            line-height: 125% !important;
+            color: #d2321c;
+            font-weight: bold;
+        }
+        h3 {
+            font-size: 22px !important;
+            line-height: 125% !important;
+            color: black;
+            font-weight: normal;
+        }
+        /* force container columns to stack */
+        td[class="force-col"] {
+            display: block;
+            clear: both;
+            float: none;
+            width: 100%;
+        }
+        table[class="col"] {
+            /* unset table align="left/right" */
+            float: none !important;
+            width: 100% !important;
+        }
+    }
+    </style>
+
+    <!--[if gte mso 9]>
+    <style type="text/css">
+
+#indent div, #indent2 div{
+padding-left: 40px;
+padding-right: 40px;
+Margin-left: 40px;
+Margin-left: 40px;
+
+}
+
+#std_newsletter div, std_social div, std_sharethis div, std_subscribe div{
+text-align:center;
+width: 100% !important;
+max-width: 135px !important;
+height:140px !important;
+background-color:#ffffff;
+border:solid 1px #eeeeee;
+padding:5px 3px !important;
+display: block !important;
+}
+
+</style>
+<![endif]-->
+
+</head>
+
+
+<body style="margin:0; padding:0;" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="all">
+    <center>
+        <table border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+            <tr>
+                <td align="center" valign="top">
+                    <table border="0" cellpadding="10" cellspacing="0" width="600" id="templateContainer">
+                        <tr>
+                            <td class="preheaderContent" valign="top">
+                                <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                    <tr>
+                                      <td valign="top" width="600">
+      <div mc:edit="std_preheader_view" align="center">
+                            <!-- *|IFNOT:ARCHIVE_PAGE|* -->Is this email not displaying correctly? <a href="*|ARCHIVE|*" target="_blank">View it in your browser</a>.<!-- *|END:IF|* -->
+  </div><br />
+                                          </td>
+                                    </tr>
+<tr>
+
+                                        <td valign="top">
+                                            <div mc:edit="std_preheader_content">
+
+                                              <a href="https://www.facebook.com/Golfweek/"><img src="http://i.imgur.com/ONrHhaz.png" style="width: 15px; height: 15px; margin: 5px;" alt="ONrHhaz.png" /></a>
+                                              <a href="https://www.twitter.com/Golfweek/"><img src="http://i.imgur.com/dzSjG0X.png" style="width: 16px; height: 13.9px; margin: 5px;" alt="dzSjG0X.png" /></a>
+                                              <a href="https://www.instagram.com/Golfweekmag/"><img src="http://i.imgur.com/DPhIUpe.png" style="width: 16px; height: 16px; margin: 5px;" alt="DPhIUpe.png" /></a>
+                                              <a href="mailto:golfweek@golfweek.com"> <img src="http://i.imgur.com/9UITcTz.png" style="width: 16px; height: 10.3px; margin: 5px;" alt="9UITcTz.png" /></a>
+                                            </div>
+                                        </td>
+                                        <td valign="top" width="180">
+                                            <div mc:edit="std_preheader_links" id="std_preheader" padding-top="10" vspace="10" align="right">
+                                                <a href="*|FORWARD|*" style="color: #d2321c"> Forward</a>   /   <a href="http://golfweek.com/newsletterlinkgoeshere" style="color: #d2321c"> Sign Up</a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                        <tr>
+                            <td align="center" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" id="templateHeader" width="600">
+                                    <tr>
+                                        <td class="headerContent">
+                                            <img mc:allowdesigner="" mc:allowtext="" mc:edit="header_image" mc:label="header_image" src="http://i.imgur.com/GUKoiki.png" style="max-width:600px;" alt="GUKoiki.png" />
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="top">
+                                <table border="0" class="templateBody" cellpadding="10" cellspacing="0" width="600">
+                                    <tr>
+                                        <td class="bodyContent" valign="top" width="600">
+                                            <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                                <tr>
+                                                    <td valign="top">
+                                                        <div id="indent" style="Margin-left:40px, Margin-right:40px">
+                                                            <div mc:edit="std_content1" mc:hideable>
+                                                                <br/><br/>
+                                                                <h1 style="color: #d2321c">What's Hot</h1>
+
+                                                                <strong>Ea oratio ornatus:</strong> Lorem ipsum dolor sit amet, eos laudem posidonium ut, modus choro ne has. Utroque facilis ex sit, in his probo dolor neglegentur. Errem vivendum nec cu, in quo referrentur accommodare. Eu eos laudem dolores omittam. Ut omnes regione nam, quo reprimique suscipiantur ad, per cu illud ullum nostro.
+                                                                <br/>
+                                                                <br/>
+                                                                <strong>Errem vivendum:</strong> Lorem ipsum dolor sit amet, eos laudem posidonium ut, modus choro ne has. Utroque facilis ex sit, in his probo dolor neglegentur. Errem vivendum nec cu, in quo referrentur accommodare.
+                                                                <br/>
+                                                                <br/>
+                                                                <strong>Cu bonorum ornatus offendit pro:</strong> An impedit docendi vulputate qui, pro ei odio ponderum philosophia, pri sanctus concludaturque an. Rebum altera cu eum. Te per mundi euismod officiis. Cu bonorum ornatus offendit pro, ius et illud incorrupte.
+                                                                <br/>
+                                                                <br/>
+                                                            </div>
+                                                            <div mc:edit="std_content2" mc:hideable>
+                                                                <h1 style="color: #d2321c">Winner's Bag</h1>
+
+                                                                <strong>Quando dicunt euripidis:</strong> Te alii molestie vix, ad quo sumo laudem impetus. Dicunt volumus referrentur no duo. Sit eu natum putant, esse veritus scripserit id sea, sit partem aliquid inermis eu. Eu case adhuc causae duo, no porro alterum forensibus usu. Ea modo tamquam nam, quod tale omittantur an nam, eu nec deleniti lobortis.
+                                                                <br/>
+                                                            </div>
+                                                            <br/>
+                                                            <div class="Advertisement">
+                                                                <div mc:allowdesigner="" mc:edit="ad_text1" mc:hideable>
+                                                                    <center>Advertisement</center>
+                                                                </div>
+                                                            </div>
+                                                            <br/>
+                                                        </div>
+                                                        <div id="std_contentAD" mc:allowdesigner="" mc:allowtext="" mc:edit="a1" mc:label="a1" mc:hideable>
+                                                            <a href="http://wwww.golfweek.com/adhere"><span class="switcher">
+                                            <center><img class="ad_image" src="http://i.imgur.com/JUw6Qmj.jpg" alt="placeholder_600.gif" style="Margin: 0, max-width:600, max-height: 250"  /></center>
+                                          </span></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <table border="0" class="templateBody" cellpadding="10" cellspacing="0" width="100%">
+                                    <tr>
+                                        <td class="bodyContent" valign="top">
+                                            <div id="indent2" style="Margin-left:40px, Margin-right:40px">
+                                                <div mc:edit="std_content3" mc:hideable>
+                                                    <br/>
+                                                    <h1 style="color: #d2321c">Looking Good</h1>
+
+                                                    <strong>Eu case adhuc causae duo?:</strong> No aeterno officiis quo, id has sale adhuc aperiri, te sed detraxit recteque. <a href="">Ut est homero graece recusabo</a>. Id sea iuvaret diceret senserit. Eos eu mucius delicata interesset, ubique graecis est in. Mea sumo summo delicata at, no hendrerit conclusionemque ius. Vim maiorum nusquam consequat eu, lorem mucius tamquam eu has. Eros ponderum pro in.
+                                                    <br/>
+                                                    <br/>
+                                                </div>
+                                                <div mc:edit="std_content4" mc:hideable>
+                                                    <h1 style="color: #d2321c">Swing Thoughts</h1>
+
+                                                    <strong>Usu in eripuit pertinacia, voluptua hendrerit at eos:</strong> Eam ne esse iisque, invidunt accusamus disputando id qui, cibo mutat ludus mel ea. Suscipit prodesset usu no. Cu nam eius habeo forensibus. Mea tota solum forensibus no. Eum ignota nusquam ei, aeterno albucius vis ei.
+                                                    <br/><br/>
+                                                    <img src="http://az616578.vo.msecnd.net/files/2016/07/23/6360489455192162291563850737_Trump.jpg" />
+                                                    <br/>
+                                                    <br/>
+                                                </div>
+                                                <div mc:edit="std_content5" mc:hideable>
+                                                    <h1 style="color: #d2321c">Just For Fun</h1>
+                                                    Ut quis habemus consequat eum, no minimum pertinax ius. Vel suas mandamus scripserit cu. Ius ridens suavitate reprimique te, eos exerci malorum ut. Nostro labores theophrastus per cu. Modus placerat ei sed.
+
+
+                                                </div>
+                                                <br/>
+                                                <br/>
+                                                <div class="Advertisement">
+                                                    <div mc:allowdesigner="" mc:edit="ad_text2" mc:hideable>
+                                                        <center>Advertisement</center>
+                                                    </div>
+                                                </div>
+                                                <br/>
+                                            </div>
+                                            <div id="std_contentAD2" mc:allowdesigner="" mc:allowtext="" mc:edit="a2" mc:label="a2" mc:hideable>
+                                                <a href="http://www.golfweek.com/adhere"><span class="switcher">
+                                    <center><img class="ad_image" src="http://i.imgur.com/JUw6Qmj.jpg" alt="placeholder_6002.gif" style="Margin: 0, max-width:600, max-height: 250px;" /></center>
+                                  </span></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+
+                    <table border="0" role="presentation" cellpadding="0" cellspacing="0" id="socialFooter" width="600">
+                        <tr>
+                            <td class="socialContent force-col" valign="top" align="center">
+                                  <!-- ### COLUMN 1 ### -->
+                                <table class="col" role="presentation" align="left" border="0" cellpadding="0" cellspacing="0" width="300" style="margin-top: 10px;">
+                                    <tr>
+                                        <td align="center" valign="top" width="150">
+                                            <div id="std_newsletter" mc:edit="std_newsletter">
+                                                <br/>
+                                                <a href="http://www.golfweek.com/signuplinkhere"><img mc:allowdesigner="" mc:label="footer_img" src="http://i.imgur.com/VK96OXk.png" height="24" width="37" vspace="10" alt="VK96OXk.png" /></a>
+                                                <br/>
+                                                <h2>WANT MORE?</h2>
+                                                <h3>Sign up for our other <br/>newsletters here.</h3>
+                                                <br/>
+                                            </div>
+                                        </td>
+                                        <td align="center" valign="top" width="150">
+                                            <div id="std_social" mc:edit="std_social" class="last-col-middle">
+                                                <br/>
+                                                <a href="https://www.facebook.com/Golfweek/"><img mc:allowdesigner="" mc:label="footer_img2" src="http://i.imgur.com/BVpkTwI.png" height="24" width="24" vspace="10" style="margin: 5px" alt="BVpkTwI.png" /></a>
+                                                <a href="https://twitter.com/golfweek"><img mc:allowdesigner="" mc:label="footer_img3" src="http://i.imgur.com/KRreIhp.png" height="20" width="24" vspace="10" style="margin: 5px" alt="KRreIhp.png" /></a>
+                                                <a href="https://www.instagram.com/golfweekmag/"><img mc:allowdesigner="" mc:label="footer_img4" src="http://i.imgur.com/Clzaxit.png" height="24" width="24" vspace="10" style="margin: 5px" alt="Clzaxit.png" /></a>
+                                                <br/>
+                                                <h2>LET'S TALK</h2>
+                                                <h3>Follow us for all the latest from fairway &amp; beyond.</h3>
+                                                <br/>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--[if gte mso 9]>
+                                </td>
+                                <td class="socialContent force-col" valign="top">
+                                <![endif]-->
+                                  <!-- ### COLUMN 2 ### -->
+                                <table class="col" role="presentation" align="left" border="0" cellpadding="0" cellspacing="0" width="300" style="margin-top: 10px;">
+                                    <tr>
+                                        <td align="center" valign="top" width="150">
+                                            <div id="std_sharethis" mc:edit="std_sharethis">
+                                                <br/>
+                                                <a href="*|FORWARD|*/"><img mc:allowdesigner="" mc:label="footer_img5" src="http://i.imgur.com/qeBypQ9.png" height="24" width="30" vspace="10" alt="qeBypQ9.png" /></a>
+                                                <br/>
+                                                <h2>SHARE THIS</h2>
+                                                <h3>Like this email? <a href="*|FORWARD|*">Share</a><br/> it with a friend. </h3>
+                                                <br/>
+                                            </div>
+                                        </td>
+                                        <td align="center" valign="top" width="150">
+                                            <div id="std_subscribe" mc:edit="std_subscribe" class="last-col">
+                                                <br/>
+                                                <a href="http://ssl.palmcoastd.com/044EA/apps/2017DES?ikey=M**NWS"><img mc:allowdesigner="" mc:label="footer_img6" src="http://i.imgur.com/igN2Gwx.png" height="24" width="26" vspace="10" alt="igN2Gwx.png"  /></a>
+                                                <br/>
+                                                <h2>HOME DELIVERY</h2>
+                                                <h3><a href="http://golfweek.com/subscribe">Get Golfweek</a> for as <br/>little as $1.60 per issue.</h3>
+                                                <br/>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+
+
+                    <table border="0" role="presentation" cellpadding="0" cellspacing="0" id="Footer" width="600">
+                        <tr>
+                            <td class="footerContent" valign="top" align="center">
+                                <br/>
+                                <table role="presentation" class="col" border="0" cellpadding="0" cellspacing="10" width="100%" align="left">
+                                    <tr>
+                                      <td align="center">
+                                            <br/>
+                                            <div id="Footer_left">
+                                                <a href="http://golfweek.com"><img mc:edit="footer_logo" id="footer_logo" mc:allowdesigner="" mc:label="footer_logo" src="http://i.imgur.com/ahbtzki.png" height="23" width="120" alt="ahbtzki.png"  /></a>
+                                                <br/>
+                                                <div mc:edit="std_footer" mc:hideable>
+                                                    <p>
+                                                    </p>
+                                                    <p>This email was sent to *|USER:ADDRESS_HTML|*
+                                                        <br/> You are receiving this email because you opted in
+                                                        at our website or by entering a sweepstakes.</p>
+                                                    <br/>
+                                                    <div mc:hideable>
+                                                        <a href="*|UNSUB|*">Unsubscribe from this list</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--[if gte mso 9]>
+                                </td>
+                                <td class="socialContent force-col" valign="top">
+                                <![endif]-->
+                                  <!-- ### COLUMN 2 ### -->
+                                <table role="presentation" class="col" border="0" cellpadding="0" cellspacing="10" width="100%" align="right">
+                                    <tr>
+                                        <td align="center">
+                                            <div id="Footer_right">
+<br/>
+                                                <img mc:edit="footer_sub" id="footer_sub" mc:allowdesigner="" mc:label="footer_sub" src="http://i.imgur.com/kUqSJnE.png" style="height: 145px; width: 250px;" alt="kUqSJnE.png" a href="http://ssl.palmcoastd.com/044EA/apps/2017DES?ikey=M**NWS" />
+                                                <br/>
+                                            </div>
+                                            <br/>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+
+</body>
+
+</html>
